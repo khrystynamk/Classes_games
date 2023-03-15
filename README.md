@@ -12,13 +12,15 @@ The game has a folder with all the necessary classes for it to function properly
 - Item: the class for all the items that can be used throughout the game.
 - Room: the class for all the settings and rooms.
 
-<h2 style="color:#009900;">Task 6 - "Helping Levchyk!"</h2>
+## Task 6 - "Helping Levchyk!"
 
-![Here is Levchyk](Levchyk.jpeg)
+![Lviv](Lviv.jpeg)
 
 The game has a folder with all the necessary classes for it to function properly.
 The purpose of the game is to go all the way to Rynok Square from Kozelnytska street to bring all the treats for Levchyk.
 On the way there, you can encounter different characters, and not all of them are going to be friends! You should beware of batyar and lotr. If you have the requested item for them, you will be able to pass to the next street, otherwise you will fail the game. There are also some friends, who can give you treats for Levchyk, but some require an item to be given for them as well.
+
+![Here is Levchyk](Levchyk.jpeg)
 
 - Character: is the main class for all the character, Friend and Enemy inherit it.
 - Levchyk: is the very first mayor of all the cats in Lviv, he is nothing but a Friend to you!
@@ -31,7 +33,7 @@ On the way there, you can encounter different characters, and not all of them ar
 - Street:  the class for all the settings and streets.
 - Item: the class for all the items that can be used throughout the game.
 
-<h2 style="color:#009900;">Launch example (Starting the game)!</h2>
+## Launch example (Starting the game)
 
 ```
 Kozelnytska street
