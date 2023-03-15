@@ -11,7 +11,7 @@ kozelnytska = mygame.Street("Kozelnytska street")
 kozelnytska.set_description("A well-known street among UCU students.")
 
 stryiska = mygame.Street("Stryiska street")
-stryiska.set_description("")
+stryiska.set_description("A street with incredibly marvelous park.")
 
 franka = mygame.Street("Franka street")
 franka.set_description(
@@ -20,10 +20,10 @@ franka.set_description(
 )
 
 krakivska = mygame.Street("Krakivska street")
-krakivska.set_description("")
+krakivska.set_description("A cozy street on Rynok Square.")
 
 svobody = mygame.Street("Svobody avenue")
-svobody.set_description("")
+svobody.set_description("A famous opera house located here, as well as annoying musicians...")
 
 virmenska = mygame.Street("Virmens'ka street")
 virmenska.set_description(
