@@ -14,7 +14,7 @@ The game has a folder with all the necessary classes for it to function properly
 
 ## Task 6 - "Helping Levchyk!"
 
-![Lviv](Lviv.jpeg)
+![Lviv](Lviv_new.jpeg)
 
 The game has a folder with all the necessary classes for it to function properly.
 The purpose of the game is to go all the way to Rynok Square from Kozelnytska street to bring all the treats for Levchyk.
