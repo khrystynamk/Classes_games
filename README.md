@@ -12,7 +12,8 @@ The game has a folder with all the necessary classes for it to function properly
 - Item: the class for all the items that can be used throughout the game.
 - Room: the class for all the settings and rooms.
 
-## ![#009900] Task 6 - "Helping Levchyk!" `#009900`
+<h2 style="color:#009900;">Task 6 - "Helping Levchyk!"</h2>
+
 ![Here is Levchyk](Levchyk.jpeg)
 
 The game has a folder with all the necessary classes for it to function properly.
@@ -30,7 +31,7 @@ On the way there, you can encounter different characters, and not all of them ar
 - Street:  the class for all the settings and streets.
 - Item: the class for all the items that can be used throughout the game.
 
-## ![#CC0000]Launch example (Starting the game)![#CC0000]
+<h2 style="color:#009900;">Launch example (Starting the game)!</h2>
 
 ```
 Kozelnytska street
