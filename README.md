@@ -34,6 +34,7 @@ On the way there, you can encounter different characters, and not all of them ar
 - Item: the class for all the items that can be used throughout the game.
 
 ## Launch example (Starting the game)
+To start the game, you shall download the necessary directory for the task and run the main script (which is located in the task direstory, outside the folder with classes)
 
 ```
 Kozelnytska street
